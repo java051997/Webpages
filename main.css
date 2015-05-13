@@ -1,0 +1,13 @@
+body {
+	background:red;
+	font-family: Arial;
+}
+p{
+	background: #987;
+	font-family: cursive,Arial;
+	padding: 10px;
+}
+.unahan{
+	background: none;
+	color: #124;
+}
